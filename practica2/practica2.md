@@ -229,3 +229,7 @@ La migración de bases de datos nos puede ayudar a cambiar de programa o actuali
 - ODBC Es una tecnología que permite conectar diferentes aplicaciones con sistemas de bases de datos.
 - AWS DMS Es un servicio de Amazon que permite migrar bases de datos hacia otros servidores o servicios en la nube.
 - GTID Es un identificador que permite reconocer las transacciones realizadas y facilita la replicación entre servidores.
+
+## link github
+
+https://github.com/jorgecrd97-eng/PRACTICAS
