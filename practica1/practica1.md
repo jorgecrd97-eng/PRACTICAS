@@ -254,3 +254,7 @@ las bases de datos tambien pueden sufrir percanses la buena administracion nos a
 - Binary log (binlog): Es un registro que almacena los cambios realizados en la base de datos, como inserciones, modificaciones y eliminaciones.
 - CHECK TABLE: Es un comando que permite revisar si una tabla se encuentra en buen estado y comprobar su integridad.
 - PITR: Significa recuperación a un punto en el tiempo. Permite recuperar una base de datos hasta una fecha u hora específica utilizando respaldos y registros binarios
+
+
+## link github
+https://github.com/jorgecrd97-eng/PRACTICAS
